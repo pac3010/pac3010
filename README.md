@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=260&section=header&text=Hello,%20I'm%20Anggia!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%7C%20AI%20Enthusiast&descSize=18&descAlignY=62&textBg=false)
 
-![bombom Cat](https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif)
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150" alt="bombom cat" /> </div> </div>
 
 </div>
 
