@@ -15,8 +15,8 @@ I'm a Fullstack Software Developer with 2+ years of professional experience, cur
 
 - 🔭 Currently building **[Ask My Docs](https://github.com/pac3010/AI-ask-my-docs)** — a multi-document RAG API with hybrid search (semantic + BM25) and source-cited answers
 - 🌱 Actively leveling up on LLM APIs, RAG pipelines, and AI agent workflows
-- 💼 IT Integration Solution Developer at **Mandiri Utama Finance**, working across fullstack development and enterprise middleware integration
-- 🎓 Bachelor of Informatics Engineering, Universitas Lampung — GPA 3.86, Third-best graduate (Nov 2023)
+- 💼 IT Integration Solution Developer, working across fullstack development and enterprise middleware integration
+- 🎓 Bachelor of Informatics Engineering, Universitas Lampung — GPA 3.86
 - 📫 Reach me at **p.anggiacahyani@gmail.com** or [LinkedIn](https://linkedin.com/in/putri-anggia-cahyani-b4129b1a7)
 
 ---
