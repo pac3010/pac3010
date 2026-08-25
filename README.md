@@ -1,9 +1,12 @@
 <div align="center">
 
+<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=260&section=header&text=Hello,%20I'm%20Anggia!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%7C%20AI%20Enthusiast&descSize=18&descAlignY=62&textBg=false)
 
-<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="100" alt="bombom cat" /> </div> </div>
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="100" alt="bombom cat" />
 
+</div>
 </div>
 
 ### 👋 About Me
@@ -20,7 +23,7 @@ I'm a Fullstack Software Developer with 2+ years of professional experience, cur
 
 ### 🧠 AI / ML Focus
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pac3010&layout=compact&theme=tokyonight&hide=html,css" />
+<img align="right" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pac3010&layout=compact&theme=tokyonight&hide=html,css" />
 
 - **RAG & Retrieval:** Hybrid search (semantic + BM25), Reciprocal Rank Fusion, embeddings, vector databases
 - **LLM Integration:** Claude, Gemini, OpenAI APIs — prompt engineering, source-grounded generation
@@ -63,7 +66,7 @@ I'm a Fullstack Software Developer with 2+ years of professional experience, cur
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pac3010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=pac3010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pac3010&theme=tokyonight&hide_border=true)
 
 </div>
